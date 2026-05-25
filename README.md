@@ -1,5 +1,6 @@
 # SentineliQ
 
+
 > **Multi-agent AI. One goal. Zero hand-holding.**
 
 SentineliQ is a production-grade Multi-Agent AI Swarm system. Give it any complex problem and a swarm of 5 specialized AI agents will plan, research, execute, and validate the solution — autonomously.
